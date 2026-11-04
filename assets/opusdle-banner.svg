@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <rect width="1200" height="360" rx="4" fill="#F1EEE4"/>
+  <path d="M0 24H1200M0 336H1200" stroke="#D8D3C6"/>
+  <path d="M36 24V336M1164 24V336" stroke="#D8D3C6"/>
+  <circle cx="72" cy="72" r="22" fill="#315C4B"/>
+  <path d="M76 58V81.5C76 88 71 92 64 92C59 92 56 89.2 56 85.5C56 81.5 60.2 78.5 66 78.5C68 78.5 70 79 72 80V62L88 58V76" stroke="#F1EEE4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="112" y="69" fill="#315C4B" font-family="Courier New, monospace" font-size="13" letter-spacing="3">CODZIENNA ZAGADKA MUZYCZNA</text>
+  <text x="108" y="165" fill="#202922" font-family="Georgia, serif" font-size="76" letter-spacing="0">opusdle</text>
+  <circle cx="370" cy="153" r="5" fill="#B56F4C"/>
+  <text x="112" y="207" fill="#59635A" font-family="Georgia, serif" font-size="23">Klasyka, na ucho.</text>
+  <path d="M112 249H426" stroke="#B56F4C" stroke-width="2"/>
+  <text x="112" y="280" fill="#59635A" font-family="Courier New, monospace" font-size="12" letter-spacing="1.5">PIĘĆ PRÓB  ·  NOWY UTWÓR KAŻDEGO DNIA</text>
+
+  <g stroke="#B8B8AA" stroke-width="1.5">
+    <path d="M536 111H1082"/>
+    <path d="M536 139H1082"/>
+    <path d="M536 167H1082"/>
+    <path d="M536 195H1082"/>
+    <path d="M536 223H1082"/>
+  </g>
+  <path d="M568 107V228M1078 107V228" stroke="#536257" stroke-width="2"/>
+  <path d="M610 218V127M682 203V108M754 190V143M826 176V114M898 162V128M970 148V101M1042 133V119" stroke="#315C4B" stroke-width="3" stroke-linecap="round"/>
+  <g fill="#315C4B">
+    <ellipse cx="610" cy="218" rx="12" ry="8" transform="rotate(-22 610 218)"/>
+    <ellipse cx="682" cy="189" rx="12" ry="8" transform="rotate(-22 682 189)"/>
+    <ellipse cx="754" cy="190" rx="12" ry="8" transform="rotate(-22 754 190)"/>
+    <ellipse cx="826" cy="162" rx="12" ry="8" transform="rotate(-22 826 162)"/>
+    <ellipse cx="898" cy="162" rx="12" ry="8" transform="rotate(-22 898 162)"/>
+    <ellipse cx="970" cy="134" rx="12" ry="8" transform="rotate(-22 970 134)"/>
+    <ellipse cx="1042" cy="133" rx="12" ry="8" transform="rotate(-22 1042 133)"/>
+  </g>
+  <path d="M682 108C711 91 730 99 750 119" stroke="#B56F4C" stroke-width="2" stroke-linecap="round"/>
+  <path d="M898 128C925 110 946 111 968 119" stroke="#B56F4C" stroke-width="2" stroke-linecap="round"/>
+  <text x="536" y="274" fill="#59635A" font-family="Courier New, monospace" font-size="11" letter-spacing="2">LISTEN CLOSELY</text>
+  <text x="1082" y="274" fill="#B56F4C" font-family="Courier New, monospace" font-size="11" letter-spacing="2" text-anchor="end">VOL. 001</text>
+  <path d="M536 292H1082" stroke="#D8D3C6"/>
+</svg>
