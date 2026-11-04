@@ -19,8 +19,8 @@ function makePiece(source: PieceSource): Piece {
     genre: source.genre,
     key: source.key,
     year: source.year,
-    measures: Array.from({ length: 5 }, (_, index) => `${header()}\n${source.bars.slice(0, index + 1).join(' | ')} |]`),
-    fullScore: `${header()}\n${body} |]`,
+    measures: Array.from({ length: 5 }, (_, index) => `${header()}${source.bars.slice(0, index + 1).join(' | ')} |]`),
+    fullScore: `${header()}${body} |]`,
   }
 }
 
