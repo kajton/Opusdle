@@ -1,6 +1,6 @@
 import abcjs from 'abcjs'
 
-let activeSynth: abcjs.synth.CreateSynth | null = null
+let activeSynth: InstanceType<typeof abcjs.synth.CreateSynth> | null = null
 let stopTimer: ReturnType<typeof setTimeout> | null = null
 let playbackGeneration = 0
 
